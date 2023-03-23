@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47a9c5ce-36c1-43bf-813d-826b36b91a25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Task4/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Task4/ShapeBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Task4/SquareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Torsdagsopgaver_23_03_23.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Flow_in_program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Cinema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/FindFemFejl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4/ShapeBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4/Square.java" afterDir="false" />
-    </list>
+    <list default="true" id="47a9c5ce-36c1-43bf-813d-826b36b91a25" name="Changes" comment="All the tasks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,11 +128,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679570655227</updated>
-      <workItem from="1679570656382" duration="13668000" />
+      <workItem from="1679570656382" duration="13976000" />
     </task>
+    <task id="LOCAL-00001" summary="All the tasks">
+      <created>1679590347665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679590347665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All the tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the tasks" />
   </component>
 </project>
